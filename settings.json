@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "arafatop.play",
+    "password": "123",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "arafatop.play.hosting",
+    "port": 25621,
     "version": "1.20.1",
     "try-creative": false
   },
